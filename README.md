@@ -1,2 +1,2 @@
 # Web-Scrapping
-Compare the price of a product from multiple eCommerce sites​ using Python
+In this Web scraping with Python project, the script searches for a specified product via URL (weblink) and find out the price at that moment. This is particularly useful when you want to monitor the price of the specific item (or items) from multiple eCommerce platforms. Here, in this program, we have targeted three major eCommerce website (Flipkart (owned by Walmart), Amazon and Croma) to find the price of a product. On each execution, all three websites are crawled and the product is located, and the price is obtained.
